@@ -1,12 +1,12 @@
 #!/bin/sh
 
 # ==============================================
-# SCRIPT : DOWNLOAD AND INSTALL mountmanager #
+# SCRIPT : DOWNLOAD AND INSTALL Mountmanager #
 # =====================================================================================================================
-# Command: wget https://raw.githubusercontent.com/biko-73/mountmanager/main/installer.sh -O - | /bin/sh #
+# Command: wget https://raw.githubusercontent.com/biko-73/Mountmanager/main/installer.sh -O - | /bin/sh #
 # =====================================================================================================================
 
-PACKAGE_DIR='mountmanager/main'
+PACKAGE_DIR='Mountmanager/main'
 
 MY_IPK="enigma2-mountmanager_v3.0_all.ipk"
 
